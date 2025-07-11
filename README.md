@@ -22,7 +22,7 @@ A simple Bash script to quickly switch your system DNS servers to popular provid
 ## Usage
 
 ```bash
-git clone https://github.com/Linuxmaster14/dns-switcher.git
+git clone https://github.com/Argo160/dns-switcher.git
 cd dns-switcher
 chmod +x dns-switcher.sh
 sudo ./dns-switcher.sh
